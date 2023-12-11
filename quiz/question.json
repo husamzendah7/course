@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Inside which HTML element do we put the JavaScript??",
+    "choice1": "mo",
+    "choice2": "<javascript",
+    "choice3": "hi",
+    "choice4": "la",
+    "answer": 1
+  },
+  {
+    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+    "choice1": "hello",
+    "choice2": "<script name='xxx.js'",
+    "choice3": "<script src='xxx.js'",
+    "choice4": "po'",
+    "answer": 3
+  },
+  {
+    "question": " what is husam ame?",
+    "choice1": "msgBox('Hello World');",
+    "choice2": "alertBox('Hello World');",
+    "choice3": "msg('Hello World');",
+    "choice4": "('Hello World');",
+    "answer": 4
+  }
+]
